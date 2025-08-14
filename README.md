@@ -5,17 +5,6 @@
 
 ---
 
-## Table of contents
-- Azure Functions (Triggers & Bindings)  
-- Durable Functions (orchestration: chaining, fan-out/fan-in)  
-- Azure Logic Apps  
-- Azure Service Bus (Queues & Topics)  
-- Azure Event Grid  
-- Azure Event Hubs  
-- High-level migration & pricing overview  
-- Sources & references
-
----
 
 # 1) Azure Functions (Triggers & Bindings)
 
